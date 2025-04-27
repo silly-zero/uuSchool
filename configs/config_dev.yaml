@@ -1,0 +1,14 @@
+system:
+  address: "127.0.0.1"
+  port : 8080
+
+mysql:
+  address : "127.0.0.1"
+  port : 3306
+  username: "root"
+  password: "123456"
+  db: "uu_school"
+  param: "charset=utf8mb4&parseTime=True&loc=Local"
+wechat:
+  appId: "wx65e67c3a013c36ea"
+  appSecret: "1a3d484d5c6de78be178af6e81e2af67"
